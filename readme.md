@@ -23,7 +23,7 @@ git clone https://github.com/mawbp/php-image-compressor.git
 composer install
 
 ```
-> Note: make sure composer is installed, you can download it here [Composer](https://composer.com) and install it.
+> Note: make sure composer is installed, you can download it here [Composer](https://getcomposer.org) and install it.
 
 ### Run your server
 you can use it either a web server like XAMPP, Laragon, etc.
